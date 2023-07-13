@@ -5,6 +5,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/hitesh__kohli" target="blank"><img src="https://img.shields.io/twitter/follow/hitesh__kohli?logo=twitter&style=for-the-badge" alt="hitesh__kohli" /></a> </p>
+<p align="left"> <a href="https://drive.google.com/file/d/10r2BxvyeUy2M68xPVmMZL1rgm74jjX3U/view?usp=sharing" target="blank"><img src="https://thenounproject.com/browse/icons/term/resume/" alt="Hitesh Kohli Resume" /></a> </p>
 
 - 🔭 I’m currently working on **SOLUS**
 
