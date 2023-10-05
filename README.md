@@ -8,7 +8,7 @@
 
 - 🔭 Here is my Resume  **Please Click the Image**  
 
-- <p align="left"> <a href="https://drive.google.com/file/d/10r2BxvyeUy2M68xPVmMZL1rgm74jjX3U/view?usp=sharing" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP9mmLFnKpykG1WFNEYt4FwR-5c8X28Ngr4g&usqp=CAU" alt="Hitesh Kohli Resume" /></a> </p>
+- <p align="left"> <a href="https://drive.google.com/file/d/1hufjofnVrjqcVVBOjodTiMzsqGb_X7c2/view?usp=sharing" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP9mmLFnKpykG1WFNEYt4FwR-5c8X28Ngr4g&usqp=CAU" alt="Hitesh Kohli Resume" /></a> </p>
 
 - 🔭 I’m currently working on **SOLUS**
 
