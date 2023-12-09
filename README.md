@@ -39,7 +39,8 @@
 
 ### Projects
 
-<h3 align="left">Tastier App</h3>
+<h2 align="left">Tastier App</h2>
+
 <p>Description :
 - Tastier is a food discovery and recipe-sharing app that allows users to explore various recipes from various cuisines.
 
@@ -53,5 +54,39 @@ Tech :
 
 
 https://github.com/Hitoli/Tastieer/assets/97933783/063e6856-6b9d-48dd-828f-9301a99cc95f
+
+<h2 align="left">Jetpack Solar System App</h2>
+
+<p>Description :
+
+- Solar News is an immersive solar system app that provides users with the latest news and updates about astronomy, and celestial events.
+
+Tech :
+
+- Dagger Hilt: Integrated Dagger Hilt for dependency injection, enabling modular development.
+- Jetpack Compose: Leveraged the capabilities of Jetpack Compose to create engaging and interactive user interfaces with captivating animations
+- Kotlin: Developed the app using Kotlin
+- Retrofit: Utilized Retrofit to handle network requests and interact with external APIs
+- MVVM Architecture: Implemented the Model-View-ViewModel (MVVM) architectural pattern to separate business logic from the user interface, resulting in a modular, testable, and easily maintainable codebase.  </p>
+
+
+https://github.com/Hitoli/JetpackSolarSystem/assets/97933783/ccb93b71-7e4c-46f4-a163-64532170b586
+
+<h2 align="left">Cricket Quiz App</h2>
+
+<p>Description :
+- Simple Quiz App that asks Questions of Cricket
+- You have to answer them within 10 secs or the Question changes
+- In the end, the Score is displayed
+
+Build with:
+
+- Kotlin
+- JSON
+- XML</p>
+
+
+https://github.com/Hitoli/Triviol/assets/97933783/f413e5a3-a4a8-46af-98af-331cfd0e6d2f
+
 
 
