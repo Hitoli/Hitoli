@@ -81,51 +81,6 @@ https://twitter.com/i/status/1749094557550088265
 ![Niwa CardDesign](https://github.com/Hitoli/Mizu/assets/97933783/4b1b03f6-f723-4b82-83aa-e9c3cd9a6397)
 #### Authentication Sequence - Coming Soon...
 
-## Installation
-1. Install the latest Android Studio
---
-[Android Studio Download](https://developer.android.com/studio?gclid=Cj0KCQiAnrOtBhDIARIsAFsSe50SEECDEAw6TZRd9BK3WoYT8CYaGmkIXqG8e5b_NJjHBEnU--SvYtIaAs6KEALw_wcB&gclsrc=aw.ds&authuser=1)
--- 
-2. All the Dependencies needed are already present in the app
-
-3. Clone the repository or Install the project as a zip file
-```
-   git clone https://github.com/Hitoli/petplantproject.git
-```
-
-4. Run the app 
-
-## Contributing
-We encourage you to participate in this open-source project. We love Pull Requests, Issue Reports, Feature Requests or any positive contribution.
-
-### Submitting an Issue
-If you find a bug in the source code or a mistake in the documentation, you can help us by submitting an issue to our repository. Before you submit your issue, search open and closed issues, as it's possible that your question was already answered, or a ticket for the issue already exists.
-
-### Pull Requests
-- All pull requests must be associated with a specific Issue. If an issue doesn't exist, please first create it.
-- Before you submit your pull request, search the repository for an open or closed Pull Request that relates to your submission. We don't want to duplicate efforts.
-- Please don't do pull requests to solve any grammatical error or English-related errors. If you spot any please reach out through Twitter.
-- PR should be named properly.
-- Naming Rules:
-- Repository managers and owners will review your code and merge it into the codebase. Please wait patiently.
-
-## Join the Community
-You can find me on Twitter, Linkedin and Youtube
-
-- [Youtube](https://www.youtube.com/channel/UCmMDXnbLjBUqXTItc8ODw-g)
-- [Twitter](https://twitter.com/Hitesh__kohli)
-- [Linkedin](https://www.linkedin.com/in/hitesh-kohli/)
-
-## Want to learn?
-You can ask me questions or book mock interviews or resume review sessions here:
-
-- [Mock Interview or Resume Review](https://topmate.io/hitesh_kohli)
-  
-You can learn more about Android Development with the help of our newsletter:
-
-- [Developer's Commute](https://developercommute.beehiiv.com/subscribe)
-
-
 
 <h2 align="left">Tastier App</h2>
 
