@@ -83,7 +83,7 @@ Welcome to Mizu, an open-source water-tracking app developed using Jetpack Compo
 
 <h2 align="left"> Experiments: AI algorithm for Niwa Game</h2>
 
-<script src="https://gist.github.com/Hitoli/88d2fb2dd4084843d21af8a30110c869.js"></script>
+![Minimax Algorithm](https://gist.github.com/Hitoli/88d2fb2dd4084843d21af8a30110c869.js)
 
 
 <h2 align="left"> Niwa </h2>
