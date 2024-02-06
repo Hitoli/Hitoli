@@ -62,6 +62,7 @@ Welcome to Mizu, an open-source water-tracking app developed using Jetpack Compo
 [<img src="https://github.com/Hitoli/Mizu/assets/97933783/03a9e195-e019-49c8-8f10-27eeeec4baea" alt="drawing" width="400"/>](https://youtu.be/ULgIOb-nN9Q?si=edXVL7wL28vdFWg1)
 
 ### Development Videos: 
+[<img src="https://github.com/Hitoli/Hitoli/assets/97933783/2a5b5988-cf95-422d-8309-3ffda8dee37a" alt="drawing" width="400"/>](https://youtu.be/TbxRWliiBIg)
 
 ## Plan from Design to release
 
