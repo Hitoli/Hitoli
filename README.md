@@ -6,15 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/hitesh__kohli" target="blank"><img src="https://img.shields.io/twitter/follow/hitesh__kohli?logo=twitter&style=for-the-badge" alt="hitesh__kohli" /></a> </p>
 
-- 🔭 Here is my Resume  **Please Click the Image**  
 
-- <p align="left"> <a href="https://drive.google.com/file/d/1-L6GaRw71mcmA-K93BHOleoHJ0amXE4S/view?usp=sharing" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP9mmLFnKpykG1WFNEYt4FwR-5c8X28Ngr4g&usqp=CAU" alt="Hitesh Kohli Resume" /></a> </p>
+- 🔭 I’m currently working on **Mizu**
 
-- 🔭 I’m currently working on **SOLUS**
+- 🌱 I’m currently learning **Unit Testing**
 
-- 🌱 I’m currently learning **Android KMM**
-
-- 🤝 I’m looking for help with **SOLUS**
+- 🤝 I’m looking for help with **Flutter**
 
 - 📝 I regularly write articles on [https://medium.com/@hiteshkohli](https://medium.com/@hiteshkohli)
 
