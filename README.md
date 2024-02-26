@@ -70,11 +70,9 @@ Welcome to Mizu, an open-source water-tracking app developed using Jetpack Compo
 
 ## UI Screens Design
 
-#### Mizu App Look:
-![Mizu app](https://github.com/Hitoli/Mizu/assets/97933783/48145ac5-25a2-4ca6-bfc8-5a3a5ac5760f)
-
 #### Mizu App Screens:
-![Mizu app Screens UI](https://github.com/Hitoli/Mizu/assets/97933783/a965dc86-db22-4877-b30e-4c5da3059ca2)
+
+<img width="699" alt="Screenshot 2024-02-26 213333" src="https://github.com/Hitoli/Hitoli/assets/97933783/1e71c00c-fbd4-4c65-81bb-da9031c0b57f">
 
 #### Authentication Sequence - Coming Soon...
 
