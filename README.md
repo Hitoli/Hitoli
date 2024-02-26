@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/844894492754784256/1704638468/1080x360)
+![MasterHead](https://pbs.twimg.com/profile_banners/844894492754784256/1708759529/1500x500)
 <h1 align="center">Hi 👋, I'm Hitesh Kohli</h1>
 <h3 align="center">Welcome to my GitHub profile! I am an experienced Android Developer with a passion for creating innovative and user-friendly mobile applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/6TdEhZ0g3WQAAAAM/dog-doggo.gif">
