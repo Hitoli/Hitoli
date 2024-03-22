@@ -1,4 +1,4 @@
-![MasterHead]![the Commute](https://github.com/Hitoli/Hitoli/assets/97933783/f949b135-097b-4b27-9372-f467956d291a)
+![the Commute](https://github.com/Hitoli/Hitoli/assets/97933783/f949b135-097b-4b27-9372-f467956d291a)
 
 <h1 align="center">Hi 👋, I'm Hitesh Kohli</h1>
 <h3 align="center">Welcome to my GitHub profile! I am an experienced Android Developer with a passion for creating innovative and user-friendly mobile applications.</h3>
