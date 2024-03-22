@@ -1,4 +1,5 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/844894492754784256/1708759529/1500x500)
+![MasterHead]![the Commute](https://github.com/Hitoli/Hitoli/assets/97933783/f949b135-097b-4b27-9372-f467956d291a)
+
 <h1 align="center">Hi 👋, I'm Hitesh Kohli</h1>
 <h3 align="center">Welcome to my GitHub profile! I am an experienced Android Developer with a passion for creating innovative and user-friendly mobile applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/6TdEhZ0g3WQAAAAM/dog-doggo.gif">
