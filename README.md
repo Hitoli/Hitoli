@@ -9,25 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/hitesh__kohli" target="blank"><img src="https://img.shields.io/twitter/follow/hitesh__kohli?logo=twitter&style=for-the-badge" alt="hitesh__kohli" /></a> </p>
 
-- 🔭Learn more about me ----> https://hiteshkohli.com/
+- 🔭Learn more about me ----> [hiteshkohli](https://www.youtube.com/@the_Commute/featured)
   
 - 🔭 I’m currently working on **Mizu**
 
 - 🌱 I’m currently learning **Unit Testing**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Android**
 
 - 📝 I regularly write articles on [https://medium.com/@hiteshkohli](https://medium.com/@hiteshkohli)
 
 - 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **kohihitesh@gmail.com**
-
-- ⚡ Fun fact **Sometimes too funny to handle and Sometimes too intellectual to handle**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
